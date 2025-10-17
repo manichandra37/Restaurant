@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    font-family: 'Georgia', 'Playfair Display', serif;
+    font-family: Georgia, serif;
     line-height: 1.6;
     color: var(--text-color);
 }
